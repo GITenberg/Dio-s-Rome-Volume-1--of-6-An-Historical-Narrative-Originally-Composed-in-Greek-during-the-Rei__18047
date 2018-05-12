@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3339
     wikipedia: http://en.wikipedia.org/wiki/Cassius_Dio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18047#Dio-s-Rome-Volume-1--of-6-An-Historical-Narrative-Originally-Composed-in-Greek-during-the-Rei_
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2006-03-24'
 gutenberg_type: Text
